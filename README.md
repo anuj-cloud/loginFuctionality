@@ -1,6 +1,6 @@
 It is demo for login functionality with react and firebase. 
 
-In order to use this code one need to create a firebase project and put the project information in a .env.local file present in the root of this directory.
+In order to use this code one need to create a firebase project and put the project information in  ".env.local" file present in the root of this directory.
 
 ## Available Scripts
 
