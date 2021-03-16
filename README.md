@@ -1,2 +1,3 @@
-# loginFuctionality
-This module is demo for login functionality to be implemented in our project. 
+#  loginFuctionality ReactJS + Firebase
+
+This module is demo for react-authentication-using-firebase. 
