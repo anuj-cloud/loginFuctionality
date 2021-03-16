@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is demo for login functionality with react and firebase. 
+
+In order to use this code one need to create a firebase project and put the project information in a .env.local file present in the root of this directory.
 
 ## Available Scripts
 
